@@ -107,11 +107,7 @@ A robotic arm that draws numbers or words by generating path coordinates and exe
 ## 📫 Contact
 
 Email: malaksamir899@gmail.com  
-<<<<<<< HEAD
 LinkedIn: (https://www.linkedin.com/in/youssef-malak-805537193/)
-=======
-LinkedIn: (add your link here)
->>>>>>> 55e85669f0bc8061c0262c9a85616af49a4c3ead
 
 ---
 
