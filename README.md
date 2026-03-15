@@ -98,8 +98,8 @@ Robotic arm that converts text/numbers into path coordinates and executes them t
 
 <div align="center">
 
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true)
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssef667&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssef667&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
